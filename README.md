@@ -10,7 +10,7 @@ The work explores traditional handcrafted features, deep visual encoders, multim
 
 ## System Architecture
 
-![System Architecture](architecture.png)
+![System Architecture](methodology.png)
 
 The proposed framework follows a multi-stage pipeline:
 
@@ -52,7 +52,7 @@ After preprocessing:
 
 ## Model Variants
 
-![Model Variants](model_variants.png)
+![Model Variants](Model Variants.png)
 
 Several architectures were evaluated across multiple stages.
 
