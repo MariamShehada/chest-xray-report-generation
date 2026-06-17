@@ -52,7 +52,7 @@ After preprocessing:
 
 ## Model Variants
 
-![Model Variants](Model Variants.png)
+![Model Variants](ModelVariants.png)
 
 Several architectures were evaluated across multiple stages.
 
